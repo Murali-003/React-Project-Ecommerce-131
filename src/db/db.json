@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "d4bf",
+      "username": "Murali Prakash S",
+      "email": "727723eucs131@skcet.ac.in",
+      "password": "M@r@li0033",
+      "confirmPassword": "M@r@li0033"
+    },
+    {
+      "id": "2c40",
+      "username": "Laish",
+      "email": "727723eucs099@skcet.ac.in",
+      "password": "laish123",
+      "confirmPassword": "laish123"
+    }
+  ]
+}
